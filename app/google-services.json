@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "625489492967",
+    "project_id": "agro-guru-963d2",
+    "storage_bucket": "agro-guru-963d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625489492967:android:a77c374be0a1f81bdd5b42",
+        "android_client_info": {
+          "package_name": "com.example.agroguru"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "625489492967-1e8cbtc1h409vee8noeb5h98bfuk2r06.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlr13aeaeN9YiI7j2896O6AVW0YXEHRas"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "625489492967-1e8cbtc1h409vee8noeb5h98bfuk2r06.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
