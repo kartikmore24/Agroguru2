@@ -16,5 +16,9 @@ Agroguru is an android application which was first created to detect rice crop d
 ## 3.Crop Disease Prediction
 ![WhatsApp Image 2023-12-16 at 9 22 54 PM](https://github.com/kartikmore24/Agroguru2/assets/69580458/74fa5789-6362-4191-8abd-cec6182f4af3)
 
+## 4.Prediction Result
+![WhatsApp Image 2023-12-16 at 9 22 55 PM](https://github.com/kartikmore24/Agroguru2/assets/69580458/b4479acf-1eef-48a7-8f60-24ff5b0e0eef)
+
+
 
 
